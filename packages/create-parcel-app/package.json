@@ -1,6 +1,6 @@
 {
   "name": "@nerp/create-parcel-app",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Create react parcel apps with no build configuration",
   "author": "Ivan Montiel <idmontie@gmail.com>",
   "license": "MIT",
@@ -22,7 +22,8 @@
   },
   "files": [
     "index.js",
-    "createParcelApp.js"
+    "createParcelApp.js",
+    "workspaceUtils.js"
   ],
   "bin": {
     "create-parcel-app": "./index.js"
