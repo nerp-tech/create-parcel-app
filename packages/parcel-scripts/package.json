@@ -1,6 +1,6 @@
 {
-  "name": "parcel-scripts",
-  "version": "0.0.1",
+  "name": "@nerp/parcel-scripts",
+  "version": "0.0.2",
   "main": "index.js",
   "author": "N.E.R.P., Ivan Montiel",
   "license": "MIT",
