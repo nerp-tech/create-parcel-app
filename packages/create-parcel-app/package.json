@@ -1,6 +1,6 @@
 {
   "name": "@nerp/create-parcel-app",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Create react parcel apps with no build configuration",
   "author": "Ivan Montiel <idmontie@gmail.com>",
   "license": "MIT",
