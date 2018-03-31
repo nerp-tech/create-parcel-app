@@ -1,0 +1,13 @@
+{
+  "name": "parcel-scripts",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "N.E.R.P., Ivan Montiel",
+  "license": "MIT",
+  "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1",
+    "react-dev-utils": "^5.0.0"
+  }
+}
